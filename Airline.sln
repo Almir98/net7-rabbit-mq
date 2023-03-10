@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.API", "Airline.API\Airline.API.csproj", "{C322D55B-79D0-497D-A738-0A713FA2F1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.Models", "Airline.Models\Airline.Models.csproj", "{458E5CDD-8779-4129-9187-96802501ADBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C322D55B-79D0-497D-A738-0A713FA2F1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C322D55B-79D0-497D-A738-0A713FA2F1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C322D55B-79D0-497D-A738-0A713FA2F1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C322D55B-79D0-497D-A738-0A713FA2F1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458E5CDD-8779-4129-9187-96802501ADBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458E5CDD-8779-4129-9187-96802501ADBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458E5CDD-8779-4129-9187-96802501ADBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458E5CDD-8779-4129-9187-96802501ADBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588D3AFE-C4D2-4DD7-B8F8-4E9586981240}
+	EndGlobalSection
+EndGlobal
