@@ -1,4 +1,4 @@
-﻿namespace Airline.Models.Models;
+﻿namespace Airline.Models;
 public class Booking
 {
     public int Id { get; set; }
