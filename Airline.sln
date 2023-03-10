@@ -3,9 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.API", "Airline.API\Airline.API.csproj", "{C322D55B-79D0-497D-A738-0A713FA2F1DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.API", "Airline.API\Airline.API.csproj", "{C322D55B-79D0-497D-A738-0A713FA2F1DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.Models", "Airline.Models\Airline.Models.csproj", "{458E5CDD-8779-4129-9187-96802501ADBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.Models", "Airline.Models\Airline.Models.csproj", "{458E5CDD-8779-4129-9187-96802501ADBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A8F1402-FB77-4EBD-97D4-1F8BEB0E6B7E}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.Infrastructure", "Airline.Infrastructure\Airline.Infrastructure.csproj", "{F0C3AD37-C1E1-45CD-8EED-B71441B49E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.Application", "Airline.Application\Airline.Application.csproj", "{CDA4F1A5-5952-4EF3-AA5E-2B97FA63D7D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +30,14 @@ Global
 		{458E5CDD-8779-4129-9187-96802501ADBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{458E5CDD-8779-4129-9187-96802501ADBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{458E5CDD-8779-4129-9187-96802501ADBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C3AD37-C1E1-45CD-8EED-B71441B49E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C3AD37-C1E1-45CD-8EED-B71441B49E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C3AD37-C1E1-45CD-8EED-B71441B49E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C3AD37-C1E1-45CD-8EED-B71441B49E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA4F1A5-5952-4EF3-AA5E-2B97FA63D7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA4F1A5-5952-4EF3-AA5E-2B97FA63D7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA4F1A5-5952-4EF3-AA5E-2B97FA63D7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA4F1A5-5952-4EF3-AA5E-2B97FA63D7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

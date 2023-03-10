@@ -1,0 +1,17 @@
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.csproj.AssemblyReference.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.AssemblyInfoInputs.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.AssemblyInfo.cs
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.csproj.CoreCompileInputs.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Application.deps.json
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Application.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Application.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Infrastructure.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Models.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Infrastructure.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\bin\Debug\net7.0\Airline.Models.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.csproj.CopyComplete
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\refint\Airline.Application.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\Airline.Application.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Application\obj\Debug\net7.0\ref\Airline.Application.dll
