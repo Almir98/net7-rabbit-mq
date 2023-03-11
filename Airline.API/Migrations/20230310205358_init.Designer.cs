@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Airline.API.Migrations
+namespace Airline.Infrastructure.Migrations:
 {
     [DbContext(typeof(AirlineContext))]
     [Migration("20230310205358_init")]
