@@ -11,12 +11,12 @@
             _mapper = mapper;
         }
 
-        public BookingDTO Create(BookingDTO model)
+        public async Task<BookingDTO> Create(BookingDTO model)
         {
             var entity = _mapper.Map<Booking>(model);
 
             _dbContext.Add(entity);
-            _dbContext.SaveChanges();
+            await _dbContext.SaveChangesAsync();
 
             return _mapper.Map<BookingDTO>(entity);
         }

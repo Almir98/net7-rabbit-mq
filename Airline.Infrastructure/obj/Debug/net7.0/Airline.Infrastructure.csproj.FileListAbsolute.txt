@@ -1,0 +1,14 @@
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\bin\Debug\net7.0\Airline.Infrastructure.deps.json
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\bin\Debug\net7.0\Airline.Infrastructure.runtimeconfig.json
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\bin\Debug\net7.0\Airline.Infrastructure.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\bin\Debug\net7.0\Airline.Infrastructure.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.AssemblyInfo.cs
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\refint\Airline.Infrastructure.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\Airline.Infrastructure.genruntimeconfig.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Infrastructure\obj\Debug\net7.0\ref\Airline.Infrastructure.dll

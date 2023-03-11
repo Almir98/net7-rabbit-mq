@@ -1,4 +1,3 @@
-using Airline.Application.Interfaces;
 using Airline.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);

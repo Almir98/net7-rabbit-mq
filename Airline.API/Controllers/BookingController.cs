@@ -1,6 +1,4 @@
-﻿using Airline.Application.Interfaces;
-
-namespace Airline.API.Controllers;
+﻿namespace Airline.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -9,7 +7,7 @@ public class BookingController : ControllerBase
     private readonly ILogger<BookingController> _logger;
     private readonly IMessageProducer _messageProducer;
     private readonly IBooking _bookingService;
-    
+
     public BookingController(ILogger<BookingController> logger, IMessageProducer messageProducer, IBooking bookingService)
     {
         _logger = logger;
@@ -18,15 +16,25 @@ public class BookingController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult CreateBooking(BookingDTO model)
+    public async Task<IActionResult> CreateBooking(BookingDTO model)
     {
-        if (model is null)
-            return BadRequest();
+        try
+        {
+            if (model is null)
+                return BadRequest();
 
-        _bookingService.Create(model);
+            await _bookingService.Create(model);
 
-        //_messageProducer.SendMessage(model);
+            //_messageProducer.SendMessage(model);
 
-        return Ok(model);
+            _logger.LogInformation("Successful processing");
+
+            return Ok(model);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "Error occurred while processing");
+            return BadRequest(ex);
+        }
     }
 }

@@ -2,6 +2,6 @@
 {
     public interface IBooking
     {
-        BookingDTO Create(BookingDTO model);
+        Task<BookingDTO> Create(BookingDTO model);
     }
 }
