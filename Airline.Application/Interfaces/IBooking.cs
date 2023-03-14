@@ -1,7 +1,6 @@
-﻿namespace Airline.Application.Interfaces
+﻿namespace Airline.Application.Interfaces;
+
+public interface IBooking
 {
-    public interface IBooking
-    {
-        Task<BookingDTO> Create(BookingDTO model);
-    }
+    Task<BookingDTO> Create(BookingDTO model);
 }

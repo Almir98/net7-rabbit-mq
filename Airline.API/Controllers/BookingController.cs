@@ -25,7 +25,7 @@ public class BookingController : ControllerBase
 
             await _bookingService.Create(model);
 
-            //_messageProducer.SendMessage(model);
+            _messageProducer.SendMessage(model);
 
             _logger.LogInformation("Successful processing");
 

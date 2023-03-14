@@ -1,0 +1,17 @@
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\bin\Debug\net7.0\Airline.Consumer.exe
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\bin\Debug\net7.0\Airline.Consumer.deps.json
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\bin\Debug\net7.0\Airline.Consumer.runtimeconfig.json
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\bin\Debug\net7.0\Airline.Consumer.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\bin\Debug\net7.0\Airline.Consumer.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.csproj.AssemblyReference.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.AssemblyInfoInputs.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.AssemblyInfo.cs
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.csproj.CopyComplete
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\refint\Airline.Consumer.dll
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.pdb
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\Airline.Consumer.genruntimeconfig.cache
+C:\Users\AlmirTihak\source\repos\Airline\Airline.Consumer\obj\Debug\net7.0\ref\Airline.Consumer.dll

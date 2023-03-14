@@ -14,6 +14,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AirlineContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dbConnection")));
 
+// Services
 builder.Services.AddScoped<IMessageProducer, MessageProducer>();
 builder.Services.AddScoped<IBooking, BookingService>();
 
