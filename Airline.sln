@@ -10,13 +10,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A8F1402-FB77-4EBD-97D4-1F8BEB0E6B7E}"
 	ProjectSection(SolutionItems) = preProject
 		docker-compose.yml = docker-compose.yml
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.Infrastructure", "Airline.Infrastructure\Airline.Infrastructure.csproj", "{F0C3AD37-C1E1-45CD-8EED-B71441B49E58}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.Application", "Airline.Application\Airline.Application.csproj", "{CDA4F1A5-5952-4EF3-AA5E-2B97FA63D7D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.Consumer", "Airline.Consumer\Airline.Consumer.csproj", "{AC2B4599-BE1A-46C6-99B4-E992E271C6D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.Consumer", "Airline.Consumer\Airline.Consumer.csproj", "{AC2B4599-BE1A-46C6-99B4-E992E271C6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
